@@ -1,6 +1,5 @@
 # testngMavenDemo
-Date: 2017.06.01
-Author: cxj
+2017.06.01
 
-use maven run testng cases.
+练习：使用maven编译运行testng测试用例
 
